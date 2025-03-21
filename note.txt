@@ -1,0 +1,1 @@
+Git is a distributed version control system (VCS) that helps developers track changes in their code, collaborate efficiently, and manage different versions of their projects.
