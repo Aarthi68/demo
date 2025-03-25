@@ -1,0 +1,4 @@
+Prevention Tips for the Future 🚀
+✔ Always commit important files before running delete commands.
+✔ Use git clean -n before git clean -f to preview files that will be deleted.
+✔ Enable automatic backups or cloud storage.
