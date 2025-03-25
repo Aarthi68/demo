@@ -1,0 +1,16 @@
+Possible Recovery Options (Outside Git)
+1️⃣ Check Your Recycle Bin (Windows) / Trash (Mac/Linux)
+
+If you deleted the file from File Explorer/Finder, it might still be there.
+
+2️⃣ Check Backup or Cloud Sync (Google Drive, OneDrive, Dropbox, etc.)
+
+If you had cloud sync enabled, try restoring an earlier version.
+
+3️⃣ Use Data Recovery Software
+
+Tools like Recuva (Windows) or TestDisk (Mac/Linux) might recover deleted files.
+
+4️⃣ Check Your IDE’s Local History (VS Code, IntelliJ, etc.)
+
+Some code editors save temporary backups.
