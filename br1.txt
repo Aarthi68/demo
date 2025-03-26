@@ -1,0 +1,5 @@
+HEAD → Commit 3
+
+HEAD~1 → Commit 2
+
+HEAD~2 → Commit 1
