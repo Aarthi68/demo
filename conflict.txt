@@ -1,2 +1,2 @@
-int a=50;
+int a=20;
 int b=20;
