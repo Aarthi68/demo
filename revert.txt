@@ -1,0 +1,4 @@
+When to Use git revert HEAD?
+When working in a shared repository (because it keeps history safe).
+
+When you want to undo changes but keep a record of what happened.
