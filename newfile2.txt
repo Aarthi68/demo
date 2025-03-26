@@ -1,0 +1,2 @@
+Keeps changes in your working directory but unstages them.
+Does not delete files, but you need to re-add (git add .) before committing again.
